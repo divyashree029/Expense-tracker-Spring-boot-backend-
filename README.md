@@ -27,6 +27,4 @@ A Spring Boot REST API for managing daily expenses.
 - MySQL
 - Swagger (OpenAPI)
 
-## API Documentation
-Swagger UI:
-http://localhost:8080/swagger-ui/index.html
+
